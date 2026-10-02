@@ -1,0 +1,7 @@
+export { profile } from './profile'
+export { personal } from './personal'
+export { projects } from './projects'
+export { skills } from './skills'
+export { experience } from './experience'
+export { education } from './education'
+export { socials } from './socials'
